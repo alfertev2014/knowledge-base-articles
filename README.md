@@ -1,3 +1,3 @@
-Кода нет, но вы держитесь!
+В этом репозитории содержатся **черновики** статей на темы Software Engineering и Computer Science.
 
-Вся информация на [Wiki](https://github.com/alfertev2014/knowledge-base-articles/wiki).
+
